@@ -1,3 +1,3 @@
 'use strict'
 
-module.exports = require('lib/dustr');
+module.exports = require('./lib/dustr');

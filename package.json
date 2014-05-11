@@ -1,6 +1,6 @@
 {
   "name": "dustr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Barebones rendering of dust templates",
   "main": "index.js",
   "scripts": {

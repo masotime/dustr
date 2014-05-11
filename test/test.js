@@ -2,7 +2,7 @@
 
 var chai = require('chai'),
 	chaiAsPromised = require('chai-as-promised'),
-	dustr = require('../lib/dustr'),
+	dustr = require('../index'),
 	fs = require('fs');
 
 chai.use(chaiAsPromised);
